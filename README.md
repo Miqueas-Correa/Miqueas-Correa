@@ -6,7 +6,7 @@ Ultimamente he estado haciendo proyectos para uso personal, como un reproductor 
 
 # Puedes encontrarme:
 - LinkedIn: https://www.linkedin.com/in/miqueas-correa-4a1509318/
-- Portafolio: https://portafolio-6rgpzs2u1-miqueas-correas-projects.vercel.app/#proyectos
+- Portafolio: https://portafolio-web-miqueas.vercel.app/#inicio
 - Gmail: miki.mate.tizi@gmail.com
 
 
